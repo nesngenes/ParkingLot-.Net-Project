@@ -1,0 +1,16 @@
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot.deps.json
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot.runtimeconfig.json
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot.runtimeconfig.dev.json
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot.dll
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ref/ParkingLot.dll
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/bin/Debug/net5.0/ParkingLot.pdb
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.csproj.AssemblyReference.cache
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.AssemblyInfoInputs.cache
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.AssemblyInfo.cs
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.csproj.CoreCompileInputs.cache
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.dll
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ref/ParkingLot.dll
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.pdb
+/home/maria/Desktop/ANES/dotnetProjects/learnDotnet/ParkingLot/obj/Debug/net5.0/ParkingLot.genruntimeconfig.cache
